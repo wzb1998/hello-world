@@ -1,2 +1,2 @@
-# hello-world
-Just another
+#include<cstdio>
+  int main()
